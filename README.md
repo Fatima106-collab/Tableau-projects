@@ -1,4 +1,5 @@
 # Tableau Projects
+![Dashboard Screenshot](dashboard-screenshot.png)
 # Sales Performance Dashboard – Tableau
 
 An interactive Tableau dashboard analyzing sales performance for a company selling drones and robotics products across the MENA region.
